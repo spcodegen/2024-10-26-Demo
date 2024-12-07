@@ -13,3 +13,9 @@
     color: white;
     text-align: center;
 }
+body{
+    background-image: url("../img/forest.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
