@@ -1,11 +1,15 @@
-h1 {
+.h1 {
     text-align: center;
     background-color: cadetblue;
     color: white;
 }
-
-p {
+.p {
     background-color: aquamarine;
     text-align: justify;
     color: black;
+}
+#id-selector-h2{
+    background-color: red;
+    color: white;
+    text-align: center;
 }
